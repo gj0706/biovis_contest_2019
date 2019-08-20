@@ -8,26 +8,38 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/network.css">
 
-    <title>Hello, world!</title>
 </head>
+<style>
+    circle {
+        stroke: white;
+        fill: #05668D;
+        opacity: 0.3;
+        stroke-width: 2px;
+    }
+</style>
 <body>
 <h2>Genome visualization</h2>
-<div class="networkChart" id="hiveChart"></div>
-
-
-
-<!--D3 library-->
-<script src=""></script>
-<!-- Optional JavaScript -->
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<!--hive plot lib-->
-<script src="lib/d3.hive.min.js"></script>
+<div class="networkChart" id="chart"></div>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<!--supergroup-->
+<!--<script src="lib/underscore-min.js"></script>-->
+<script src="lib/d3.v5.10.min.js"></script>
+<script src="lib/lodash.min.js"></script>
+<script src="lib/supergroup.js"></script>
+<script src="lib/d3-array.v2.min.js"></script>
+
+
+<!--hive plot lib-->
+<script src="lib/d3.hive.min.js"></script>
+
 <script src="js/network.js"></script>
 </body>
 </html>
