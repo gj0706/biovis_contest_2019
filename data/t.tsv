@@ -1,0 +1,204 @@
+#node	asm	tax	desc	tax_species	color
+NC_004354.4	GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna.gz	7227	Drosophila melanogaster	7227	#032A01
+NC_000001.11	GCF_000001405.36_GRCh38.p10_genomic.fna.gz	9606	Homo sapiens	9606	#138163
+NC_000001.11	GCF_000001405.38_GRCh38.p12_genomic.fna.gz	9606	Homo sapiens	9606	#138163
+NC_006468.4	GCF_000001515.7_Pan_tro_3.0_genomic.fna.gz	9598	Pan troglodytes	9598	#DE9240
+NC_012591.1	GCF_000001545.4_P_pygmaeus_2.0.2_genomic.fna.gz	9601	Pongo abelii	9601	#A01F3C
+NC_000067.6	GCF_000001635.25_GRCm38.p5_genomic.fna.gz	10090	Mus musculus	10090	#4392E6
+NC_000067.6	GCF_000001635.26_GRCm38.p6_genomic.fna.gz	10090	Mus musculus	10090	#4392E6
+NC_003070.9	GCF_000001735.3_TAIR10_genomic.fna.gz	3702	Arabidopsis thaliana	3702	#A92873
+NC_003070.9	GCF_000001735.4_TAIR10.1_genomic.fna.gz	3702	Arabidopsis thaliana	3702	#A92873
+NW_001589959.2	GCF_000001765.3_Dpse_3.0_genomic.fna.gz	46245	Drosophila pseudoobscura pseudoobscura	7237	#742141
+NC_005100.4	GCF_000001895.5_Rnor_6.0_genomic.fna.gz	10116	Rattus norvegicus	10116	#C45AE6
+NW_003573420.1	GCF_000001905.1_Loxafr3.0_genomic.fna.gz	9785	Loxodonta africana	9785	#851372
+NW_002197112.1	GCF_000001985.1_JCVI-PMFA1-2.0_genomic.fna.gz	441960	Talaromyces marneffei ATCC 18224	37727	#3DACB5
+NC_007112.6	GCF_000002035.5_GRCz10_genomic.fna.gz	7955	Danio rerio	7955	#62D081
+NC_007112.7	GCF_000002035.6_GRCz11_genomic.fna.gz	7955	Danio rerio	7955	#62D081
+NW_004797271.1	GCF_000002075.1_AplCal3.0_genomic.fna.gz	6500	Aplysia californica	6500	#1E0F65
+NC_007070.3	GCF_000002195.4_Amel_4.5_genomic.fna.gz	7460	Apis mellifera	7460	#99E4FF
+NW_011967247.1	GCF_000002235.4_Spur_4.2_genomic.fna.gz	7668	Strongylocentrotus purpuratus	7668	#B4D6F2
+AC_000069.1	GCF_000002265.2_Rn_Celera_genomic.fna.gz	10116	Rattus norvegicus	10116	#C45AE6
+NC_009094.1	GCF_000002275.2_Ornithorhynchus_anatinus_5.0.1_genomic.fna.gz	9258	Ornithorhynchus anatinus	9258	#1868F1
+NC_006583.3	GCF_000002285.3_CanFam3.1_genomic.fna.gz	9615	Canis lupus familiaris	9612	#85B6C9
+NC_008801.1	GCF_000002295.2_MonDom5_genomic.fna.gz	13616	Monodelphis domestica	13616	#EA415B
+NC_009144.2	GCF_000002305.2_EquCab2.0_genomic.fna.gz	9796	Equus caballus	9796	#DDA8D8
+NC_006088.4	GCF_000002315.4_Gallus_gallus-5.0_genomic.fna.gz	9031	Gallus gallus	9031	#E2E142
+NC_006088.5	GCF_000002315.5_GRCg6a_genomic.fna.gz	9031	Gallus gallus	9031	#E2E142
+NC_006088.5	GCF_000002315.6_GRCg6a_genomic.fna.gz	9031	Gallus gallus	9031	#E2E142
+NC_015867.2	GCF_000002325.3_Nvit_2.1_genomic.fna.gz	7425	Nasonia vitripennis	7425	#966AAD
+NC_007416.3	GCF_000002335.3_Tcas5.2_genomic.fna.gz	7070	Tribolium castaneum	7070	#08F0EF
+NC_009906.1	GCF_000002415.2_ASM241v2_genomic.fna.gz	5855	Plasmodium vivax	5855	#CDFA4C
+NW_001867361.1	GCF_000002425.3_V1.1_genomic.fna.gz	3218	Physcomitrella patens	3218	#B01693
+NC_037253.1	GCF_000002425.4_Phypa_V3_genomic.fna.gz	3218	Physcomitrella patens	3218	#B01693
+NW_002477179.1	GCF_000002435.1_GL2_genomic.fna.gz	184922	Giardia lamblia ATCC 50803	5741	#EDEA29
+NC_008409.1	GCF_000002445.1_ASM244v1_genomic.fna.gz	185431	Trypanosoma brucei brucei TREU927	5691	#87784E
+NC_008409.1	GCF_000002445.2_ASM244v1_genomic.fna.gz	185431	Trypanosoma brucei brucei TREU927	5691	#87784E
+NC_010004.1	GCF_000002455.1_ASM245v1_genomic.fna.gz	227086	Bigelowiella natans	227086	#6B4CDF
+NC_017844.1	GCF_000002495.2_MG8_genomic.fna.gz	242507	Pyricularia oryzae 70-15	318829	#8D90CC
+NC_006037.1	GCF_000002515.2_ASM251v1_genomic.fna.gz	28985	Kluyveromyces lactis	28985	#6BBF19
+NC_006067.1	GCF_000002525.2_ASM252v1_genomic.fna.gz	284591	Yarrowia lipolytica CLIB122	4952	#4F164C
+NC_005967.2	GCF_000002545.3_ASM254v2_genomic.fna.gz	5478	[Candida] glabrata	5478	#237123
+NW_001843470.1	GCF_000002595.1_v3.0_genomic.fna.gz	3055	Chlamydomonas reinhardtii	3055	#2836BE
+NC_007194.1	GCF_000002655.1_ASM265v1_genomic.fna.gz	330879	Aspergillus fumigatus Af293	746128	#D88768
+NW_001510342.1	GCF_000002715.2_ASM271v1_genomic.fna.gz	344612	Aspergillus clavatus NRRL 1	5057	#79A330
+NC_001905.3	GCF_000002725.2_ASM272v2_genomic.fna.gz	347515	Leishmania major strain Friedlin	5664	#B24D21
+NC_004325.1	GCF_000002765.3_ASM276v1_genomic.fna.gz	36329	Plasmodium falciparum 3D7	5833	#F5F3B8
+NC_004325.2	GCF_000002765.4_ASM276v2_genomic.fna.gz	36329	Plasmodium falciparum 3D7	5833	#F5F3B8
+NC_008467.2	GCF_000002775.3_Poptr2_0_genomic.fna.gz	3694	Populus trichocarpa	3694	#4B26DC
+NC_037285.1	GCF_000002775.4_Pop_tri_v3_genomic.fna.gz	3694	Populus trichocarpa	3694	#4B26DC
+NW_001517114.1	GCF_000002825.2_ASM282v1_genomic.fna.gz	412133	Trichomonas vaginalis G3	5722	#C94A58
+NC_009294.2	GCF_000002845.2_ASM284v2_genomic.fna.gz	420245	Leishmania braziliensis MHOM/BR/75/M2904	5660	#FA1839
+NT_166525.1	GCF_000002855.3_ASM285v2_genomic.fna.gz	425011	Aspergillus niger CBS 513.88	5061	#F466E8
+NW_001865256.1	GCF_000002865.3_V1.0_genomic.fna.gz	431895	Monosiga brevicollis MX1	81824	#E1DF9B
+NC_009386.2	GCF_000002875.2_ASM287v2_genomic.fna.gz	435258	Leishmania infantum JPCM5	5671	#63A8F9
+NC_003424.3	GCF_000002945.1_ASM294v2_genomic.fna.gz	4896	Schizosaccharomyces pombe	4896	#7A9A32
+NC_002752.1	GCF_000002975.1_ASM297v1_genomic.fna.gz	55529	Guillardia theta	55529	#46F9E4
+NC_003279.8	GCF_000002985.6_WBcel235_genomic.fna.gz	6239	Caenorhabditis elegans	6239	#4A5CFA
+NW_004080163.1	GCF_000002995.3_ASM299v2_genomic.fna.gz	6279	Brugia malayi	6279	#DC0E19
+NC_010443.4	GCF_000003025.5_Sscrofa10.2_genomic.fna.gz	9823	Sus scrofa	9823	#3D8A0E
+NC_010443.5	GCF_000003025.6_Sscrofa11.1_genomic.fna.gz	9823	Sus scrofa	9823	#3D8A0E
+AC_000158.1	GCF_000003055.6_Bos_taurus_UMD_3.1.1_genomic.fna.gz	9913	Bos taurus	9913	#0E999D
+NW_862602.3	GCF_000003085.2_ASM308v2_genomic.fna.gz	352914	Plasmodium yoelii yoelii 17XNL	5861	#CCDF38
+NW_002990142.1	GCF_000003125.1_JCVI-TSTA1-3.0_genomic.fna.gz	441959	Talaromyces stipitatus ATCC 10500	28564	#DE6FA2
+NZ_GG666849.1	GCF_000003135.1_ASM313v1_genomic.fna.gz	548480	Bifidobacterium longum subsp. longum ATCC 55813	216816	#348BBE
+NC_012870.1	GCF_000003195.2_Sorbi1_genomic.fna.gz	4558	Sorghum bicolor	4558	#952575
+NC_012870.2	GCF_000003195.3_Sorghum_bicolor_NCBIv3_genomic.fna.gz	4558	Sorghum bicolor	4558	#952575
+NC_007299.6	GCF_000003205.7_Btau_5.0.1_genomic.fna.gz	9913	Bos taurus	9913	#0E999D
+NZ_CM000441.1	GCF_000003215.1_ASM321v1_genomic.fna.gz	455631	Clostridioides difficile QCD-66c26	1496	#1415DB
+NC_011129.1	GCF_000003225.2_ASM322v1_genomic.fna.gz	353154	Theileria annulata strain Ankara	5874	#85D6E9
+NW_001091929.1	GCF_000003225.3_ASM322v1_genomic.fna.gz	5874	Theileria annulata	5874	#85D6E9
+NW_003052500.1	GCF_000003515.1_ASM351v2_genomic.fna.gz	336963	Uncinocarpus reesii 1704	33188	#3F0B95
+NW_003105101.1	GCF_000003605.2_Skow_1.1_genomic.fna.gz	10224	Saccoglossus kowalevskii	10224	#8EE30F
+NC_013669.1	GCF_000003625.3_OryCun2.0_genomic.fna.gz	9986	Oryctolagus cuniculus	9986	#9F5506
+NZ_CM000714.1	GCF_000003645.1_ASM364v1_genomic.fna.gz	526973	Bacillus cereus m1293	1396	#096628
+NC_012007.3	GCF_000003745.3_12X_genomic.fna.gz	29760	Vitis vinifera	29760	#5C4F80
+NW_003101570.1	GCF_000003815.1_Version_2_genomic.fna.gz	7739	Branchiostoma floridae	7739	#7A685D
+NW_003101575.1	GCF_000003835.1_ASM383v1_genomic.fna.gz	306902	Clavispora lusitaniae ATCC 42720	36911	#62B395
+NW_003101682.1	GCF_000003855.2_ASM385v2_genomic.fna.gz	559298	Blastomyces gilchristii SLH14081	1681229	#4FA270
+NW_003101682.1	GCF_000003855.2_BD_SLH14081_V1_genomic.fna.gz	559298	Blastomyces gilchristii SLH14081	1681229	#4FA270
+NZ_CM000742.1	GCF_000003925.1_ASM392v1_genomic.fna.gz	526997	Bacillus mycoides DSM 2048	1405	#3DE233
+NZ_CM000741.1	GCF_000003955.1_ASM395v1_genomic.fna.gz	526994	Bacillus cereus AH1273	1396	#096628
+NW_001809801.1	GCF_000004015.4_AaegL3_genomic.fna.gz	7159	Aedes aegypti	7159	#42E9FB
+NC_026655.1	GCF_000004075.2_ASM407v2_genomic.fna.gz	3659	Cucumis sativus	3659	#07845C
+NW_004166867.1	GCF_000004095.1_Hydra_RP_1.0_genomic.fna.gz	6087	Hydra vulgaris	6087	#5A2A33
+NW_013185624.1	GCF_000004155.1_SCY4_genomic.fna.gz	653667	Schizosaccharomyces cryophilus OY26	866546	#DE5E3C
+NC_030677.1	GCF_000004195.3_Xenopus_tropicalis_v9.1_genomic.fna.gz	8364	Xenopus tropicalis	8364	#AF3B6A
+NW_003302555.1	GCF_000004255.1_v.1.0_genomic.fna.gz	81972	Arabidopsis lyrata subsp. lyrata	59689	#F6DFAB
+NW_003302555.1	GCF_000004255.2_v.1.0_genomic.fna.gz	81972	Arabidopsis lyrata subsp. lyrata	59689	#F6DFAB
+NW_003217288.1	GCF_000004335.2_AilMel_1.0_genomic.fna.gz	9646	Ailuropoda melanoleuca	9646	#409BBD
+NC_016088.2	GCF_000004515.4_Glycine_max_v2.0_genomic.fna.gz	3847	Glycine max	3847	#A3048E
+NC_016088.3	GCF_000004515.5_Glycine_max_v2.1_genomic.fna.gz	3847	Glycine max	3847	#A3048E
+NC_013489.1	GCF_000004555.1_ASM455v1_genomic.fna.gz	6238	Caenorhabditis briggsae	6238	#1FC30B
+NC_013896.1	GCF_000004665.1_Callithrix_jacchus-3.2_genomic.fna.gz	9483	Callithrix jacchus	9483	#5CFE9B
+NC_007087.3	GCF_000004695.1_dicty_2.7_genomic.fna.gz	352472	Dictyostelium discoideum AX4	44689	#C981FD
+NC_013781.1	GCF_000004825.1_PolPal_Dec2009_genomic.fna.gz	13642	Heterostelium pallidum	13642	#FA10E8
+NW_003163326.1	GCF_000004985.1_V1.0_genomic.fna.gz	744533	Naegleria gruberi strain NEG-M	5762	#D384DE
+NC_024459.2	GCF_000005005.2_B73_RefGen_v4_genomic.fna.gz	4577	Zea mays	4577	#70B8FE
+NW_001953025.1	GCF_000005115.1_dana_caf1_genomic.fna.gz	7217	Drosophila ananassae	7217	#29263A
+NW_001961671.1	GCF_000005135.1_dere_caf1_genomic.fna.gz	7220	Drosophila erecta	7220	#BD4828
+NW_001979110.1	GCF_000005155.2_dgri_caf1_genomic.fna.gz	7222	Drosophila grimshawi	7222	#3C5BE6
+NW_001985952.1	GCF_000005175.2_dmoj_caf1_genomic.fna.gz	7230	Drosophila mojavensis	7230	#F0B762
+NW_001987588.1	GCF_000005195.2_dper_caf1_genomic.fna.gz	7234	Drosophila persimilis	7234	#44D472
+NW_002001246.1	GCF_000005215.3_dsec_caf1_genomic.fna.gz	7238	Drosophila sechellia	7238	#937EA3
+NW_002015583.1	GCF_000005245.1_dvir_caf1_genomic.fna.gz	7244	Drosophila virilis	7244	#464074
+NW_669745.1	GCF_000005395.1_ASM539v1_genomic.fna.gz	5823	Plasmodium berghei ANKA	5821	#926C11
+NC_016131.2	GCF_000005505.2_Brachypodium_distachyon_v2.0_genomic.fna.gz	15368	Brachypodium distachyon	15368	#9DE458
+NC_016131.3	GCF_000005505.3_Brachypodium_distachyon_v3.0_genomic.fna.gz	15368	Brachypodium distachyon	15368	#9DE458
+NC_004818.2	GCF_000005575.2_AgamP3_genomic.fna.gz	180454	Anopheles gambiae str. PEST	7165	#162716
+NC_013791.2	GCF_000005825.2_ASM582v2_genomic.fna.gz	398511	Bacillus pseudofirmus OF4	79885	#E0B4BA
+NC_000913.3	GCF_000005845.2_ASM584v2_genomic.fna.gz	511145	Escherichia coli str. K-12 substr. MG1655	562	#4E4B5F
+NW_002027987.1	GCF_000005925.1_dwil_caf1_genomic.fna.gz	7260	Drosophila willistoni	7260	#C70511
+NC_011091.1	GCF_000005975.2_dyak_caf1_genomic.fna.gz	7245	Drosophila yakuba	7245	#8CA070
+NC_014222.1	GCF_000006175.1_ASM617v2_genomic.fna.gz	456320	Methanococcus voltae A3	2188	#B44050
+NW_002988871.1	GCF_000006255.1_Postia_placenta_V1.0_genomic.fna.gz	561896	Postia placenta Mad-698-R	104341	#D52D4B
+NW_002479158.1	GCF_000006275.2_JCVI-afl1-v2.0_genomic.fna.gz	332952	Aspergillus flavus NRRL3357	5059	#70117E
+NW_002988870.1	GCF_000006295.1_JCVI_LOUSE_1.0_genomic.fna.gz	121224	Pediculus humanus corporis	121225	#AA2EEF
+NW_003020038.1	GCF_000006335.2_ASM633v2_genomic.fna.gz	294747	Candida tropicalis MYA-3404	5482	#F4F691
+NW_003020038.1	GCF_000006335.3_ASM633v3_genomic.fna.gz	294747	Candida tropicalis MYA-3404	5482	#F4F691
+NC_011902.1	GCF_000006355.1_ASM635v1_genomic.fna.gz	5851	Plasmodium knowlesi strain H	5850	#234A12
+NW_003214671.1	GCF_000006405.1_JCVI_PMG_1.0_genomic.fna.gz	423536	Perkinsus marinus ATCC 50983	31276	#8D16FC
+NW_666050.1	GCF_000006425.1_ASM642v1_genomic.fna.gz	353151	Cryptosporidium hominis TU502	237895	#23972C
+NC_006043.2	GCF_000006445.2_ASM644v2_genomic.fna.gz	284592	Debaryomyces hansenii CBS767	4959	#0E64A7
+NW_002196617.1	GCF_000006515.1_JCVI_cmg_v1.0_genomic.fna.gz	441375	Cryptosporidium muris RN66	5808	#B448D8
+NC_031467.1	GCF_000006565.2_TGA4_genomic.fna.gz	508771	Toxoplasma gondii ME49	5811	#BDC8B0
+NC_007164.1	GCF_000006605.1_ASM660v1_genomic.fna.gz	306537	Corynebacterium jeikeium K411	38289	#619D75
+NC_002162.1	GCF_000006625.1_ASM662v1_genomic.fna.gz	273119	Ureaplasma parvum serovar 3 str. ATCC 700970	134821	#ACE136
+NC_004088.1	GCF_000006645.1_ASM664v1_genomic.fna.gz	187410	Yersinia pestis KIM10+	632	#ABD815
+NC_002655.2	GCF_000006665.1_ASM666v1_genomic.fna.gz	155864	Escherichia coli O157:H7 str. EDL933	562	#4E4B5F
+NC_002620.2	GCF_000006685.1_ASM668v1_genomic.fna.gz	243161	Chlamydia muridarum str. Nigg	83560	#59D5B0
+NC_002488.3	GCF_000006725.1_ASM672v1_genomic.fna.gz	160492	Xylella fastidiosa 9a5c	2371	#0A65E1
+NC_002505.1	GCF_000006745.1_ASM674v1_genomic.fna.gz	243277	Vibrio cholerae O1 biovar El Tor str. N16961	666	#FAE0B2
+NC_002516.2	GCF_000006765.1_ASM676v1_genomic.fna.gz	208964	Pseudomonas aeruginosa PAO1	287	#918317
+NC_002737.2	GCF_000006785.2_ASM678v2_genomic.fna.gz	160490	Streptococcus pyogenes M1 GAS	1314	#50905D
+NC_002607.1	GCF_000006805.1_ASM680v1_genomic.fna.gz	64091	Halobacterium salinarum NRC-1	2242	#1A3F91
+NC_002663.1	GCF_000006825.1_ASM682v1_genomic.fna.gz	272843	Pasteurella multocida subsp. multocida str. Pm70	747	#8D317B
+NC_002946.2	GCF_000006845.1_ASM684v1_genomic.fna.gz	242231	Neisseria gonorrhoeae FA 1090	485	#218A0A
+NC_002662.1	GCF_000006865.1_ASM686v1_genomic.fna.gz	272623	Lactococcus lactis subsp. lactis Il1403	1358	#83ADC9
+NC_003028.3	GCF_000006885.1_ASM688v1_genomic.fna.gz	170187	Streptococcus pneumoniae TIGR4	1313	#F09696
+NC_002696.2	GCF_000006905.1_ASM690v1_genomic.fna.gz	190650	Caulobacter vibrioides CB15	155892	#DE8D3A
+NC_004337.2	GCF_000006925.2_ASM692v2_genomic.fna.gz	198214	Shigella flexneri 2a str. 301	623	#A733FA
+NC_003197.2	GCF_000006945.2_ASM694v2_genomic.fna.gz	99287	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	28901	#9DA26E
+NC_003047.1	GCF_000006965.1_ASM696v1_genomic.fna.gz	266834	Sinorhizobium meliloti 1021	382	#4F6FFE
+NC_002932.3	GCF_000006985.1_ASM698v1_genomic.fna.gz	194439	Chlorobaculum tepidum TLS	1097	#DB2B41
+NC_002754.1	GCF_000007005.1_ASM700v1_genomic.fna.gz	273057	Saccharolobus solfataricus P2	2287	#5B8E4F
+NC_003103.1	GCF_000007025.1_ASM702v1_genomic.fna.gz	272944	Rickettsia conorii str. Malish 7	781	#7143D7
+NC_003098.1	GCF_000007045.1_ASM704v1_genomic.fna.gz	171101	Streptococcus pneumoniae R6	1313	#F09696
+NC_003901.1	GCF_000007065.1_ASM706v1_genomic.fna.gz	192952	Methanosarcina mazei Go1	2209	#DB116B
+NC_003869.1	GCF_000007085.1_ASM708v1_genomic.fna.gz	273068	Caldanaerobacter subterraneus subsp. tengcongensis MB4	911092	#5D7F5E
+NC_006526.2	GCF_000007105.1_ASM710v1_genomic.fna.gz	264203	Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821	542	#7DCD34
+NC_003317.1	GCF_000007125.1_ASM712v1_genomic.fna.gz	224914	Brucella melitensis bv. 1 str. 16M	29459	#3F7861
+NC_003902.1	GCF_000007145.1_ASM714v1_genomic.fna.gz	190485	Xanthomonas campestris pv. campestris str. ATCC 33913	339	#040259
+NC_003919.1	GCF_000007165.1_ASM716v1_genomic.fna.gz	190486	Xanthomonas citri pv. citri str. 306	346	#13F989
+NC_005043.1	GCF_000007205.1_ASM720v1_genomic.fna.gz	182082	Chlamydia pneumoniae TW-183	83558	#F7C433
+NC_003364.1	GCF_000007225.1_ASM722v1_genomic.fna.gz	178306	Pyrobaculum aerophilum str. IM2	13773	#C2AA4A
+NC_004556.1	GCF_000007245.1_ASM724v1_genomic.fna.gz	183190	Xylella fastidiosa Temecula1	2371	#0A65E1
+NC_004116.1	GCF_000007265.1_ASM726v1_genomic.fna.gz	208435	Streptococcus agalactiae 2603V/R	1311	#7BB060
+NC_003485.1	GCF_000007285.1_ASM728v1_genomic.fna.gz	186103	Streptococcus pyogenes MGAS8232	1314	#50905D
+NC_003413.1	GCF_000007305.1_ASM730v1_genomic.fna.gz	186497	Pyrococcus furiosus DSM 3638	2261	#BBAA9D
+NC_003454.1	GCF_000007325.1_ASM732v1_genomic.fna.gz	190304	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	851	#92FB0C
+NC_003552.1	GCF_000007345.1_ASM734v1_genomic.fna.gz	188937	Methanosarcina acetivorans C2A	2214	#F3D9DE
+NC_004061.1	GCF_000007365.1_ASM736v1_genomic.fna.gz	198804	Buchnera aphidicola str. Sg (Schizaphis graminum)	9	#45C48C
+NC_006834.1	GCF_000007385.1_ASM738v1_genomic.fna.gz	291331	Xanthomonas oryzae pv. oryzae KACC 10331	347	#C5FF25
+NC_004741.1	GCF_000007405.1_ASM740v1_genomic.fna.gz	198215	Shigella flexneri 2a str. 2457T	623	#A733FA
+NC_004070.1	GCF_000007425.1_ASM742v1_genomic.fna.gz	198466	Streptococcus pyogenes MGAS315	1314	#50905D
+NC_004431.1	GCF_000007445.1_ASM744v1_genomic.fna.gz	199310	Escherichia coli CFT073	562	#4E4B5F
+NC_004350.2	GCF_000007465.2_ASM746v2_genomic.fna.gz	210007	Streptococcus mutans UA159	1309	#4476B9
+NC_004572.3	GCF_000007485.1_ASM748v1_genomic.fna.gz	203267	Tropheryma whipplei str. Twist	2039	#A48564
+NC_004310.3	GCF_000007505.1_ASM750v1_genomic.fna.gz	204722	Brucella suis 1330	29461	#AEA552
+NC_004307.2	GCF_000007525.1_ASM752v1_genomic.fna.gz	206672	Bifidobacterium longum NCC2705	216816	#348BBE
+NC_004631.1	GCF_000007545.1_ASM754v1_genomic.fna.gz	209261	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	28901	#9DA26E
+NC_002947.4	GCF_000007565.2_ASM756v2_genomic.fna.gz	160488	Pseudomonas putida KT2440	303	#11B984
+NC_002950.2	GCF_000007585.1_ASM758v1_genomic.fna.gz	242619	Porphyromonas gingivalis W83	837	#B0B183
+NC_003361.3	GCF_000007605.1_ASM760v1_genomic.fna.gz	227941	Chlamydia caviae GPIC	83557	#AB88D8
+NC_004557.1	GCF_000007625.1_ASM762v1_genomic.fna.gz	212717	Clostridium tetani E88	1513	#2B3BF3
+NC_004461.1	GCF_000007645.1_ASM764v1_genomic.fna.gz	176280	Staphylococcus epidermidis ATCC 12228	1282	#1CECC7
+NC_006087.1	GCF_000007665.1_ASM766v1_genomic.fna.gz	281090	Leifsonia xyli subsp. xyli str. CTCB07	1575	#70EFBA
+NC_005823.1	GCF_000007685.1_ASM768v1_genomic.fna.gz	267671	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	173	#F7E6C8
+NC_005085.1	GCF_000007705.1_ASM770v1_genomic.fna.gz	243365	Chromobacterium violaceum ATCC 12472	536	#65658F
+NC_004545.1	GCF_000007725.1_ASM772v1_genomic.fna.gz	224915	Buchnera aphidicola str. Bp (Baizongia pistaciae)	9	#45C48C
+NC_006300.1	GCF_000007745.1_ASM774v1_genomic.fna.gz	221988	[Mannheimia] succiniciproducens MBEL55E	157673	#7A8BB4
+NC_002971.4	GCF_000007765.2_ASM776v2_genomic.fna.gz	227377	Coxiella burnetii RSA 493	777	#F1C159
+NC_004668.1	GCF_000007785.1_ASM778v1_genomic.fna.gz	226185	Enterococcus faecalis V583	1351	#3E313B
+NC_004578.1	GCF_000007805.1_ASM780v1_genomic.fna.gz	223283	Pseudomonas syringae pv. tomato str. DC3000	251701	#417C09
+NC_004722.1	GCF_000007825.1_ASM782v1_genomic.fna.gz	226900	Bacillus cereus ATCC 14579	1396	#096628
+NC_003997.3	GCF_000007845.1_ASM784v1_genomic.fna.gz	198094	Bacillus anthracis str. Ames	1392	#C08268
+NC_002944.2	GCF_000007865.1_ASM786v1_genomic.fna.gz	262316	Mycobacterium avium subsp. paratuberculosis K-10	1764	#94E445
+NC_005810.1	GCF_000007885.1_ASM788v1_genomic.fna.gz	229193	Yersinia pestis biovar Microtus str. 91001	632	#ABD815
+NC_004917.1	GCF_000007905.1_ASM790v1_genomic.fna.gz	235279	Helicobacter hepaticus ATCC 51449	32025	#13CD49
+NC_005042.1	GCF_000007925.1_ASM792v1_genomic.fna.gz	167539	Prochlorococcus marinus subsp. marinus str. CCMP1375	1219	#271551
+NC_002940.2	GCF_000007945.1_ASM794v1_genomic.fna.gz	233412	[Haemophilus] ducreyi 35000HP	730	#D5CFEA
+NC_002939.5	GCF_000007985.2_ASM798v2_genomic.fna.gz	243231	Geobacter sulfurreducens PCA	35554	#B03625
+NC_003909.8	GCF_000008005.1_ASM800v1_genomic.fna.gz	222523	Bacillus cereus ATCC 10987	1396	#096628
+NC_002978.6	GCF_000008025.1_ASM802v1_genomic.fna.gz	163164	Wolbachia endosymbiont of Drosophila melanogaster	163164	#8E8D35
+NC_006142.1	GCF_000008045.1_ASM804v1_genomic.fna.gz	257363	Rickettsia typhi str. Wilmington	785	#4B04A6
+NC_005362.1	GCF_000008065.1_ASM806v1_genomic.fna.gz	257314	Lactobacillus johnsonii NCC 533	33959	#867036
+NC_006905.1	GCF_000008105.1_ASM810v1_genomic.fna.gz	321314	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67	28901	#9DA26E
+NC_005835.1	GCF_000008125.1_ASM812v1_genomic.fna.gz	262724	Thermus thermophilus HB27	274	#D947BF
+NC_006932.1	GCF_000008145.1_ASM814v1_genomic.fna.gz	262698	Brucella abortus bv. 1 str. 9-941	235	#577EF1
+NC_005945.1	GCF_000008165.1_ASM816v1_genomic.fna.gz	260799	Bacillus anthracis str. Sterne	1392	#C08268
+NC_002967.9	GCF_000008185.1_ASM818v1_genomic.fna.gz	243275	Treponema denticola ATCC 35405	158	#064096
+NC_007295.1	GCF_000008205.1_ASM820v1_genomic.fna.gz	262719	Mycoplasma hyopneumoniae J	2099	#978D76
+NC_007332.1	GCF_000008225.1_ASM822v1_genomic.fna.gz	262722	Mycoplasma hyopneumoniae 7448	2099	#978D76
+NC_007294.1	GCF_000008245.1_ASM824v1_genomic.fna.gz	262723	Mycoplasma synoviae 53	2109	#05546B
+NC_005877.1	GCF_000008265.1_ASM826v1_genomic.fna.gz	263820	Picrophilus torridus DSM 9790	82076	#7540DF
+NC_002973.6	GCF_000008285.1_ASM828v1_genomic.fna.gz	265669	Listeria monocytogenes serotype 4b str. F2365	1639	#3C1E4B
