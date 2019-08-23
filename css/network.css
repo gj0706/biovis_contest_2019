@@ -2,5 +2,11 @@ circle {
     stroke: black;
     fill: #05668D;
     opacity: 0.3;
-    stroke-width: 2px;
+    stroke-width: 1px;
+}
+
+.node--hover circle {
+    stroke: #000;
+    stroke-width: 1.5px;
+    fill:white;
 }
