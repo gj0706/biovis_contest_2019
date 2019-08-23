@@ -1,4 +1,4 @@
-let paths = ['data/t.tsv','test.tsv'];
+let paths = ['data/testNode.tsv','data/test.tsv'];
 const width = 2000,
       height = 2000;
 const format = d3.format(',d');
@@ -22,9 +22,15 @@ Promise.all(paths.map(path=>d3.tsv(path))).then(files=>{
     // console.log(linkNodes);
 // debugger
     // Make data hierarchical
+    // let dd = d3.stratify()
+    //     .id(d=>d['#node'])
+    //     .parentId(d=>d['desc'])
+    //     (nodeData);
+    // console.log(dd);
+
     let newData = makeHierarchy({
         data:nodeData,
-        groupByFns:[d=>+d['tax_species'], d=>d['desc'], d=>d['#node']],
+        groupByFns:[d=>d['tax_species'], d=>d['desc'], d=>d['#node']],
         reduceFn:v=>v.length,
     });
     debugger
