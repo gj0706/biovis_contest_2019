@@ -3,6 +3,7 @@ circle {
     fill: #05668D;
     opacity: 0.3;
     stroke-width: 1px;
+    float:left;
 }
 
 .node--hover circle {
